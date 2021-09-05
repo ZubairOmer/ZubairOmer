@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZubairOmer
 - 👀 I’m interested in coding and problem solving
-- 🌱 I’m currently learning React & Nextjs
+- 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ... omer.zubair01@gmail.com
 
